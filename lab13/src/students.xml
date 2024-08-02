@@ -1,0 +1,35 @@
+<students>
+<student>
+    <name>Victor</name>
+    <surname>Pelevin</surname>
+    <id>123</id>
+    <marks>
+        <mark>DMIML - 9</mark>
+        <mark>OIMP - 10</mark>
+        <mark>ALGEBRA - 10</mark>
+        <mark>MATHAN - 9</mark>
+    </marks>
+</student>
+<student>
+    <name>Alex</name>
+    <surname>Tarkov</surname>
+    <id>153</id>
+    <marks>
+        <mark>DMIML - 5</mark>
+        <mark>OIMP - 7</mark>
+        <mark>ALGEBRA - 6</mark>
+        <mark>MATHAN - 8</mark>
+    </marks>
+</student>
+    <student>
+    <name>John</name>
+    <surname>Dawn</surname>
+    <id>151</id>
+    <marks>
+        <mark>DMIML - 4</mark>
+        <mark>OIMP - 3</mark>
+        <mark>ALGEBRA -7</mark>
+        <mark>MATHAN - 9</mark>
+    </marks>
+</student>
+</students>

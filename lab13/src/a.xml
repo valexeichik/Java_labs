@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<group>
+    <student>
+        <name>lera</name>
+        <surname>alex</surname>
+        <id>56</id>
+        <marks>
+            <mark>ma-10</mark>
+            <mark>alg-10</mark>
+        </marks>
+    </student>
+</group>
